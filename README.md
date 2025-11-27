@@ -117,7 +117,7 @@ Evaluation (Confusion matrix, accuracy)
 
 
 ## Screenshots
-<img width="1823" height="717" alt="Screenshot1" src="https://github.com/user-attachments/assets/278ecd31-ed12-4479-b227-cdfeef4dba30" />
+
 
 
 
